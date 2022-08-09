@@ -4,7 +4,7 @@ A data cleaning project on Nashville Housing data.
 
 ## Tools
 
-- SQL : the queris in this project were written in Microsoft SQL Server Management Studio.
+- SQL : the queries in this project were written in Microsoft SQL Server Management Studio.
 
 ## Installation
 
